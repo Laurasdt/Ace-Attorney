@@ -41,13 +41,13 @@ const scene = [{
     character: 'tektiv',
     name: "Tektiv",
     expression: 'pumped',
-    message: "${!}Bonjour je suis Tektiv, je recherche une ${!}${red}alternance${/} !",
+    message: "${!}Bonjour je suis Tektiv, je recherche des amis pour programmer en ${!}${red}JavaScript${/} !",
     voice: audios.male
 }, {
     character: 'tektiv',
     name: "Tektiv",
     expression: 'mad',
-    message: "Je n'ai pas toujours, ${?}${red}c'est inadmissible${/} !",
+    message: "Tout le monde a la flemme, ${?}${red}c'est inadmissible${/} !",
     voice: audios.male
 }, {
     character: 'maya',

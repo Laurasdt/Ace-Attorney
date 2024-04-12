@@ -38,7 +38,7 @@ img {
 
 .pressBtn {
     transform: scale(.8);
-    transition: .05s ease-in-out;
+    transition: 0.3s ease-in-out;
     cursor: default !important;
 }
 
